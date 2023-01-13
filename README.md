@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](./language_stack.png)
+![Header](./languages_stack.png)
 ### Hello World 👋
 Francis Okafor is a highly motivated and passionate software engineer with about 4 years of experience in the industry. With a background in Mechanical Engineering, he has a strong understanding of programming languages and technologies such as Golang, Python, JavaScript, C, React, Vue, Rabbitmq, redis, docker, mongodb, mysql etc, and a passion for developing innovative solutions.
 
