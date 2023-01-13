@@ -24,3 +24,40 @@ He is a team player, who values collaboration and communication. He is also able
 In his free time, Francis enjoys playing chess, football and table tennis. He loves languages and is very fluent in Chinese, English, igbo and posseses an intermediate proficiency in german. He plays over 12 musical instruments including western, chinese and African instruments.
 
 He is always excited to work on challenging projects and be part of a dynamic team.
+
+### Skills
+![](https://img.shields.io/badge/code-Golang-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-Javascipt-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-RabbitMq-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-Html5-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-Css3-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-Less-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+### Frameworks && Libraries
+![](https://img.shields.io/badge/Framework-Gin-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Framework-Kratos-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Framework-FastApi-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Framework-Uniapp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Framework-Taro-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Library-Vue-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+
+### Tools
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Tools-Goland-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Tools-Vscode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Tools-Webstorm-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Tools-Clion-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=purple)
+
+### Processes
+![](https://img.shields.io/badge/processes-Agile-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
+![](https://img.shields.io/badge/processes-Srum-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
+![](https://img.shields.io/badge/processes-Leadership-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
+
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/okafor-francis/)](https://www.linkedin.com/in/okafor-francis/)
